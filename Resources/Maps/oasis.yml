@@ -32049,7 +32049,11 @@ entities:
     - type: Transform
       pos: 34.5,-32.5
       parent: 21002
-
+  - uid: 25459
+    components:
+    - type: Transform
+      pos: 34.5,-31.5
+      parent: 21002
   - uid: 25460
     components:
     - type: Transform
@@ -43489,7 +43493,11 @@ entities:
     - type: Transform
       pos: -38.5,-38.5
       parent: 2
-
+  - uid: 5995
+    components:
+    - type: Transform
+      pos: -38.5,-39.5
+      parent: 2
   - uid: 5996
     components:
     - type: Transform
